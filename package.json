@@ -1,0 +1,7 @@
+{
+  "name": "gamesoles.com",
+  "version": "0.0.1",
+  "description": "game space",
+  "main": "index.js",
+  "license": "MIT"
+}
